@@ -1,0 +1,22 @@
+ Introduction to TypeScript :
+
+ => TypeScript is a superset of JavaScript.
+
+ =>TypeScript builds on top of JavaScript. First, you write the TypeScript code. Then, you compile the TypeScript code into plain JavaScript code using a TypeScript compiler.
+
+ => TypeScript uses the JavaScript syntaxes and adds additional syntaxes for supporting Types.
+
+
+Why Typescript :
+
+The main goals of TypeScript are ;
+
+=> Introduce optional types to JavaScript.
+
+=> Implement planned features of future JavaScript, a.k.a. ECMAScript Next or ES Next to the current JavaScript.
+
+=> TypeScript improves your productivity while helping avoid bugs
+
+=> 
+
+ * * Understanding dynamic type in JavaScript:
