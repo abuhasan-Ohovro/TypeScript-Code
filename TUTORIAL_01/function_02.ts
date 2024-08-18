@@ -29,3 +29,18 @@ function handleError (errmsg : string) : never {
     
 
 }
+
+
+//?
+
+const getmsg = (str : string) : string => {
+    return " "
+}
+
+function this_is_function (){
+    return "I will return by the time you are home !"
+}
+
+//* 
+
+console.log("I promissed I will be a multi-billionaire and heip the poople who are ain nned , Y aALllah help hem to become your best servent and become a  belove one , ya allah pls forgive my old sins plas allah 😔😔")

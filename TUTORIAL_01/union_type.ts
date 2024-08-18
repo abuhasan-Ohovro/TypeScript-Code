@@ -37,3 +37,9 @@ function getDbId (id : number | string){
 const data : number [] =[1,2,3,4,5]
 const data_2 : string[] = ["1","4","9"]
 const data_3 : (string | number) [] = ["1","3","9",8]
+
+
+export{}
+
+
+

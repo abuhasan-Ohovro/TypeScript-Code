@@ -13,7 +13,7 @@ createUser({name : "dazai", ispaid :true})
 //* A better approach 
 
 function createCourse () : {name : string,price : number }{
-    return {name : "Eren Yeager", price : 3535}
+    return {name : "Eren Yeager", price : 0/12}
 }
 
 

@@ -1,0 +1,3 @@
+# Here are some of the note about all the typescript code and project...
+
+
